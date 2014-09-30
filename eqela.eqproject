@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Abuangame1
+#
+
+projectname: Abuangame1
+vendorid: com.mycompany
+mainmodule: com.mycompany.abuangame1
